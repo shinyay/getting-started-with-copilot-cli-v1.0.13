@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "scaffolder-demo": {
+      "type": "stdio",
+      "command": "echo",
+      "args": ["MCP server placeholder — configure a real server in Exercise 10"],
+      "disabled": true
+    }
+  }
+}

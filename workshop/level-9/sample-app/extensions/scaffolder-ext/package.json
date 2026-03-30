@@ -1,0 +1,14 @@
+{
+  "name": "scaffolder-ext",
+  "version": "1.0.0",
+  "description": "Copilot CLI extension for the Project Scaffolder sample app",
+  "main": "extension.mjs",
+  "type": "module",
+  "copilot-extension": {
+    "tools": ["list_templates"],
+    "hooks": []
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
