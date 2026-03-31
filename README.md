@@ -1,5 +1,9 @@
 # Getting Started with GitHub Copilot CLI
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://shinyay.github.io/getting-started-with-copilot-cli-v1.0.13/)
+
+> 🌐 **Workshop Site:** **[https://shinyay.github.io/getting-started-with-copilot-cli-v1.0.13/](https://shinyay.github.io/getting-started-with-copilot-cli-v1.0.13/)** — A polished, navigable version of this workshop with step sidebar, progress tracking, dark/light mode, and keyboard navigation.
+
 > **Note:** GitHub Copilot CLI reached **General Availability** on February 25, 2026. ([Docs][1])
 
 > 📌 **Workshop Snapshot:** This workshop was authored and verified against
