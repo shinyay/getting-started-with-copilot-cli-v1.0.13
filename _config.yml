@@ -1,0 +1,55 @@
+# ─────────────────────────────────────────────────
+# Getting Started with GitHub Copilot CLI — Jekyll Configuration
+# Theme: shinyay/workshop-pages-theme
+# ─────────────────────────────────────────────────
+
+remote_theme: shinyay/workshop-pages-theme
+
+title: "Getting Started with GitHub Copilot CLI"
+description: "A progressive 9-level curriculum with 108 hands-on exercises — from first launch to building custom extensions."
+author: "shinyay"
+
+plugins:
+  - jekyll-remote-theme
+
+workshop:
+  category: "copilot-ai"
+  language: "Python"
+  difficulty: "Beginner → Advanced"
+  duration: "10–15 hours"
+  prerequisites:
+    - "GitHub account with Copilot subscription"
+    - "Copilot CLI installed (npm install -g @github/copilot)"
+    - "Python 3.8+ (Levels 1–6, 9)"
+    - "Node.js 18+ (Level 7)"
+    - "Terminal (macOS / Linux / Windows)"
+    - "Git installed and configured"
+  hub_url: "https://shinyay.github.io/awesome-shinyay-workshop/"
+  show_toc: true
+  show_progress: true
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+exclude:
+  - docs/
+  - .devcontainer/
+  - .github/instructions/
+  - .github/prompts/
+  - .github/skills/
+  - .github/ISSUE_TEMPLATE/
+  - requirements-dev.txt
+  - RELEASE-HISTORY.md
+  - vendor/
+  - node_modules/
+  - .venv/
+  - __pycache__/
+  - Gemfile.lock

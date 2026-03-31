@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Create — Make Your First Changes"
+step_number: 4
+permalink: /steps/4/
+---
+
 # Level 4: Create — Make Your First Changes
 
 > **Risk level:** 🟡 Low — You will modify files for the first time. All changes are to workshop sample code and can be reverted with `git checkout`.

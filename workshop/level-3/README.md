@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Plan — Think Before Acting"
+step_number: 3
+permalink: /steps/3/
+---
+
 # Level 3: Plan — Think Before Acting
 
 > **Risk level:** 🟢 Zero — Plans don't modify files. You create, review, refine, and reject plans without any code being written.

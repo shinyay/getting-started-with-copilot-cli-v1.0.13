@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Level 9 — Quick Reference Card"
+parent_step: 9
+permalink: /cheatsheet/9/
+---
+
 # Level 9 Cheat Sheet — Build Your Own Copilot Experience
 
 ## Extensions

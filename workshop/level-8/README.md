@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Advanced — Permissions & Delegation"
+step_number: 8
+permalink: /steps/8/
+---
+
 # Level 8: Advanced — Permissions, Sessions & Delegation
 
 > **Risk level:** 🔴 High awareness required — You will work with fine-grained permissions, security-sensitive files, automation scripts, and delegation to autonomous agents. Understanding what you authorize is critical.

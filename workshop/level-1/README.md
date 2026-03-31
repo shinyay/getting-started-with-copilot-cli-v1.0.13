@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Observe — Read-Only Exploration"
+step_number: 1
+permalink: /steps/1/
+---
+
 # Level 1: Observe — Read-Only Exploration (No Risk)
 
 > **Risk level:** 🟢 Zero — Nothing in this level modifies any files.

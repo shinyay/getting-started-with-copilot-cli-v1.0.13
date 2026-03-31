@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Understand — Ask Questions"
+step_number: 2
+permalink: /steps/2/
+---
+
 # Level 2: Understand — Ask Questions & Get Explanations
 
 > **Risk level:** 🟢 Zero — Nothing in this level modifies any files. You are still read-only.

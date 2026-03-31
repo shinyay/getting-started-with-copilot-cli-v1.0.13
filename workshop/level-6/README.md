@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Workflow — Full Plan → Execute → Review"
+step_number: 6
+permalink: /steps/6/
+---
+
 # Level 6: Workflow — The Full Plan → Execute → Review Cycle
 
 > **Risk level:** 🟠 Medium — You will perform complete development workflows: building features, fixing multi-file bugs, refactoring, writing tests, and updating documentation — all through Copilot.

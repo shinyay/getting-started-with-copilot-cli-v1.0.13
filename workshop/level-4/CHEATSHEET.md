@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Level 4 — Quick Reference Card"
+parent_step: 4
+permalink: /cheatsheet/4/
+---
+
 # Level 4 Cheat Sheet — Write Operations & Verification
 
 ## Approval Flow

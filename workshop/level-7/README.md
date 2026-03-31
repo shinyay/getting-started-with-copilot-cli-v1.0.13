@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Customize — Make Copilot Work Your Way"
+step_number: 7
+permalink: /steps/7/
+---
+
 # Level 7: Customize — Make Copilot Work Your Way
 
 > **Risk level:** 🟢 Low — You are configuring Copilot's behavior, not modifying production code. All configurations are additive and reversible.

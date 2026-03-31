@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Execute — Run Commands"
+step_number: 5
+permalink: /steps/5/
+---
+
 # Level 5: Execute — Run Commands Through Copilot
 
 > **Risk level:** 🟡 Medium — Copilot will run shell commands (tests, linters, scripts) on your behalf. Always read `bash` tool invocations before approving.

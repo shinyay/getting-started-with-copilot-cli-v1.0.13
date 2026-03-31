@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Level 8 — Quick Reference Card"
+parent_step: 8
+permalink: /cheatsheet/8/
+---
+
 # Level 8 Cheat Sheet — Advanced Features
 
 ## CLI Permission Flags

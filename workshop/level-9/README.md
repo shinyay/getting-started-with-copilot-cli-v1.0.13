@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Extend — Build Your Own Experience"
+step_number: 9
+permalink: /steps/9/
+---
+
 # Level 9: Extend — Build Your Own Copilot Experience
 
 > ⚠️ **Risk Level: 🔴 High** — This level involves creating extensions, configuring hooks, and working with the full extensibility ecosystem. You'll be writing code that integrates directly with Copilot CLI.

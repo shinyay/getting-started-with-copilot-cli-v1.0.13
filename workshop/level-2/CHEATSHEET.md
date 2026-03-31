@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Level 2 — Quick Reference Card"
+parent_step: 2
+permalink: /cheatsheet/2/
+---
+
 # Level 2 — Quick Reference Card
 
 ## Prompt Patterns (The Core of Level 2)
